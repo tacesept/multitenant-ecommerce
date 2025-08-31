@@ -18,5 +18,6 @@
       "\\bdefaultVariants\\s*:\\s*\\{([\\s\\S]*?)\\}",
       "(?:'|\"|`)([^'\"`]*)(?:'|\"|`)"
     ]
-  ]
+  ],
+  "postman.settings.dotenv-detection-notification-visibility": false
 }
